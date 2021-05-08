@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-I mainly am developing **SPA** and **PWA** in **javascript**(typescript) and servers in **node.js**.
+I am mainly developing **SPA** and **PWA** in **javascript**(typescript) and servers in **node.js**.
 
 ### Technology stack used
 Frontend:
