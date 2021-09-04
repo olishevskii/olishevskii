@@ -10,14 +10,10 @@
 - I do not drink alcohol or smoke.:no_smoking:
 - I like tea. :tea:
 
-<br>
 
 ### Connect with me
 [<img height="24" style='margin-right: .5rem' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />](mailto:olishevskyalex@gmail.com)
-[<img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />]()
-[<img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://leetcode.com/olishevskyalex/)
-
-<br>
+[<img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />](https://leetcode.com/olishevskyalex/)
 
 ### Favorite Tech
 ![lab](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
@@ -34,8 +30,6 @@
 ![lab](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)
 ![lab](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest)
 ![lab](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu)
-
-<br>
 
 ### Statistics
 
