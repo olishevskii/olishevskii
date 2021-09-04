@@ -13,7 +13,9 @@
 <br>
 
 ### Connect with me
-[<img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />](mailto:olishevskyalex@gmai.com)
+[<img height="24" style='margin-right: .5rem' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />](mailto:olishevskyalex@gmail.com)
+[<img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />]()
+[<img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://leetcode.com/olishevskyalex/)
 
 <br>
 
