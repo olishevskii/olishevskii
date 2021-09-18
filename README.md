@@ -24,6 +24,7 @@
 ![lab](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack)
 ![lab](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![lab](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![lab](https://img.shields.io/badge/Nest-black?style=for-the-badge&logo=nestjs)
 ![lab](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
 ![lab](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)
 ![lab](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest)
