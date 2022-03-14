@@ -11,7 +11,7 @@
 - I like tea. :tea:
 
 ### Connect with me
-[<img height="24" style='margin-right: .5rem' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />](mailto:olishevskyalex@gmail.com)&nbsp;
+[<img height="24" style='margin-right: .5rem' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />](mailto:olishevsky.job@gmail.com)&nbsp;
 
 ### Favorite Tech
 ![lab](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
@@ -29,7 +29,3 @@
 ![lab](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)
 ![lab](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest)
 ![lab](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu)
-
-### Statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olishevskyalex&show_icons=true&theme=radical&count_private=true&issues_priate=true&include_all_commits=true)
