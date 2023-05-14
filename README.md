@@ -1,17 +1,19 @@
-## Hi there, I'm Alex :wave:
+## Hi there, I'm Alex 👋
 
 <img src='./assets/tachikoma.gif' align='right' >
 
 ### About me
 
-- I’m currently learning English. :uk:
-- Besides, I’m currently working with Typescript, React, Redux, Nodejs, Express, PostgreSQL, etc. :technologist: 
-- Recently started using github, before that I used bitbucket. :eyes:
-- I do not drink alcohol or smoke.:no_smoking:
-- I like tea. :tea:
+I'm a full-stack developer with expertise in JavaScript, TypeScript, Node.js, SQL and NoSQL databases, and a range of frontend technologies like Next, React, and Redux. I'm passionate about creating scalable, high-performance applications and contributing to open-source projects.
+
+With a strong grasp of design patterns, programming paradigms, and protocols, I rely on automated testing with Jest and version control with Git and NPM to ensure the quality and reliability of my code.
+
+If you're looking for a skilled full-stack developer or open-source collaborator, let's connect and discuss how I can help bring your project to life. Thank you for visiting my profile!
 
 ### Connect with me
-[<img height="24" style='margin-right: .5rem' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />](mailto:olishevsky.job@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:olishevsky.job@gmail.com)](mailto:olishevsky.job@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/olishevskii)](https://linkedin.com/in/olishevskii)
+
 
 ### Favorite Tech
 ![lab](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
