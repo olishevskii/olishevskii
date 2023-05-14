@@ -6,9 +6,9 @@ I'm a full-stack developer with expertise in JavaScript, TypeScript, Node.js, SQ
 
 With a strong grasp of design patterns, programming paradigms, and protocols, I rely on automated testing with Jest and version control with Git and NPM to ensure the quality and reliability of my code.
 
-If you're looking for a skilled full-stack developer or open-source collaborator, let's connect and discuss how I can help bring your project to life. Thank you for visiting my profile!
-
 <img src='./assets/tachikoma.gif' align='right' >
+
+If you're looking for a skilled full-stack developer or open-source collaborator, let's connect and discuss how I can help bring your project to life. Thank you for visiting my profile!
 
 ### Connect with me
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:olishevsky.job@gmail.com)](mailto:olishevsky.job@gmail.com)
