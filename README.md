@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a full-stack developer with expertise in JavaScript, TypeScript, Node.js, SQL and NoSQL databases, and a range of frontend technologies like Next, React, and Redux. I'm passionate about creating scalable, high-performance applications and contributing to open-source projects.
+I'm a full-stack developer with expertise in JavaScript, TypeScript, Node.js (Express, NestJs), SQL and NoSQL databases, and a range of frontend technologies like React, Redux and Next.js. I'm passionate about creating scalable, high-performance applications and contributing to open-source projects.
 
 With a strong grasp of design patterns, programming paradigms, and protocols, I rely on automated testing with Jest and version control with Git and NPM to ensure the quality and reliability of my code.
 
