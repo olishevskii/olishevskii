@@ -27,5 +27,6 @@ If you're looking for a skilled full-stack developer or open-source collaborator
 ![lab](https://img.shields.io/badge/Nest-black?style=for-the-badge&logo=nestjs)
 ![lab](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
 ![lab](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis)
+![lab](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=ApacheKafka)
 ![lab](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)
 ![lab](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest)
